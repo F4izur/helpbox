@@ -9,3 +9,15 @@ header>h1{
 .explore{
     width: 50%;
 }
+
+/* ready to join */
+.ready-parent{
+    justify-content: space-between;
+    align-items: center;
+}
+.ready{
+    width: 60%;
+}
+.ready-btn{
+    width: 20%;
+}
