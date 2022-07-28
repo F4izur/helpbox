@@ -21,3 +21,8 @@ header>h1{
 .ready-btn{
     width: 20%;
 }
+
+/* Trusted Companies */
+.companies>img{
+    width: 10%;
+}
